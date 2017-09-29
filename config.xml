@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "jedes.seventeenbob.edu.mit.scratch"
+        id          = "jedes.draw.edu.mit.scratch"
         versionCode = "10" 
         version     = "1.0.0" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>SA and V of sphere calculator</name>
+    <name>drawingpictures by Daniel Tilton</name>
 
     <description>
         Ann app made using Scratch, Phonegap, github, and PhoneGap
